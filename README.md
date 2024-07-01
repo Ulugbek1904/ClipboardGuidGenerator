@@ -11,5 +11,5 @@ whether they want to generate another GUID.
 - Displays the generated GUID and the current date and time.
 - Copies the GUID and date/time to the clipboard.
 - Prompts the user to run the program again.
-
+#### If you want to download this console app you can write any time this gmail accounnt : julugbek023@gmail.com
 
